@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome To Development Branch
+          Welcome To Development Branch test from another device
         </p>
         <a
           className="App-link"
